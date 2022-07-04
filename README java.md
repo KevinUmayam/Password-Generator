@@ -1,5 +1,33 @@
 # 03 JavaScript: Password Generator
 
+Results
+
+link to Site: [HERE](https://kevinumayam.github.io/Password-Generator/)
+<img src="./ass" alt="">
+
+<img src="./assets/imgRm/length.png" alt="">
+
+The first prompt after clicking the generate password button asked the user "how long" they would like their password to be.
+
+<img src="./assets/imgRm/warningL.png" alt="">
+
+if the password is not of the correct lenght it pops a warning specifying the lenght required, and the it takes them back ot the question.
+
+<img src="./assets/imgRm/Numbers.png" alt="">
+<img src="./assets/imgRm/special.png" alt="">
+<img src="./assets/imgRm/upperC.png" alt="">
+<img src="./assets/imgRm/lowerC.png" alt="">
+
+The four pictures above show the different 4 required criterias for a proper and secure password.
+
+<img src="./assets/imgRm/nochar.png" alt="">
+
+If no characters were selected to build the password then we provide a waring specifying the issue and it leaves the password box empty rather then showing an undefined error.
+
+<img src="./assets/imgRm/Generated.png" alt="" />
+
+Once the password has been created it pops up in the your secure password box.
+
 ## Your Task
 
 This week's Challenge requires you to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished, responsive user interface that adapts to multiple screen sizes.
@@ -44,57 +72,58 @@ The following image shows the web application's appearance and functionality:
 
 > **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
 >
-> * A repository that has no code
+> - A repository that has no code
 >
-> * A repository that includes a unique name but nothing else
+> - A repository that includes a unique name but nothing else
 >
-> * A repository that includes only a README file but nothing else
+> - A repository that includes only a README file but nothing else
 >
-> * A repository that only includes starter code
+> - A repository that only includes starter code
 
-This Challenge is graded based on the following criteria: 
+This Challenge is graded based on the following criteria:
 
 ### Technical Acceptance Criteria: 40%
 
-* Satisfies all of the preceding acceptance criteria.
+- Satisfies all of the preceding acceptance criteria.
 
 ### Deployment: 32%
 
-* Application deployed at live URL.
+- Application deployed at live URL.
 
-* Application loads with no errors.
+- Application loads with no errors.
 
-* Application GitHub URL submitted.
+- Application GitHub URL submitted.
 
-* GitHub repository that contains application code.
+- GitHub repository that contains application code.
 
 ### Application Quality: 15%
 
-* Application user experience is intuitive and easy to navigate.
+- Application user experience is intuitive and easy to navigate.
 
-* Application user interface style is clean and polished.
+- Application user interface style is clean and polished.
 
-* Application resembles the mock-up functionality provided in the Challenge instructions.
+- Application resembles the mock-up functionality provided in the Challenge instructions.
 
 ### Repository Quality: 13%
 
-* Repository has a unique name.
+- Repository has a unique name.
 
-* Repository follows best practices for file structure and naming conventions.
+- Repository follows best practices for file structure and naming conventions.
 
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+- Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
 
-* Repository contains multiple descriptive commit messages.
+- Repository contains multiple descriptive commit messages.
 
-* Repository contains quality readme file with description, screenshot, and link to deployed application.
+- Repository contains quality readme file with description, screenshot, and link to deployed application.
 
 ## Review
 
 You are required to submit the following for review:
 
-* The URL of the deployed application.
+- The URL of the deployed application.
 
-* The URL of the GitHub repository, with a unique name and a readme describing the project.
+- The URL of the GitHub repository, with a unique name and a readme describing the project.
 
-- - -
+---
+
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
